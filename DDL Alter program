@@ -1,0 +1,6 @@
+ALTER TABLE Students
+ADD Email VARCHAR(100); 
+ALTER TABLE Students
+MODIFY Student_Name VARCHAR(100);
+ALTER TABLE Students
+RENAME COLUMN Student_Name TO Name;
