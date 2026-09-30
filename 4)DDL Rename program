@@ -1,0 +1,8 @@
+CREATE TABLE Student (
+    RollNo INT,
+    Name VARCHAR(30)
+);
+
+RENAME TABLE Student TO Student_Details;
+RENAME TABLE old_table_name TO new_table_name;
+RENAME TABLE Student TO Student_Details;
