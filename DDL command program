@@ -1,0 +1,10 @@
+CREATE TABLE Students (
+    Student_ID INT,
+    Student_Name VARCHAR(50),
+    Age INT
+);
+
+
+
+
+
